@@ -5,18 +5,19 @@ class Titular
     private $cpf;
     private $nome;
     
-    public function __constuct(string $cpf, string $nome)
+    public function __constuct(Cpf $cpf, string $nome)
     {
         $this->cpf = $cpf;
+        $this->validaNomeTitular($nome);
         $this->nome = $nome;
     }
 
-    public function getCpf(): string
+    public function recuperaCpf(): string
     {
         return $this->cpf;
     }
 
-    public function getNome(): string 
+    public function recuperaNome(): string 
     {
         return $this->nome;
     }
