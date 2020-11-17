@@ -1,6 +1,6 @@
 # PHP-Alura
 
-Projetos desenvolvidos na primeira parte do curso de PHP da Alura.
+Projetos desenvolvidos na quarta parte do curso de PHP da Alura.
 
 Site do curso: https://cursos.alura.com.br/course/php-arrays
 
