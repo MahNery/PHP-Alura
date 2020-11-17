@@ -2,8 +2,7 @@
 
 Projetos desenvolvidos na segunda parte do curso de PHP da Alura.
 
-Site do curso: https://cursos.alura.com.br/course/php-arrays-strings-funcoes
-
+Site do curso: https://cursos.alura.com.br/course/php-oo-classes-metodos-atributos
 ## Descrição
 
 Arquivos:
